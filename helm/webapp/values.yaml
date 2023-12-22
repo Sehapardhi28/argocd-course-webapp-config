@@ -8,7 +8,7 @@ image:
   repository: sehap/argocd-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 20eb56726e822daaf74c049c7f199e2702400e97
+  tag: 981bf79aa7a57326b0156c9774d1a9f9677c3a83
 
 imagePullSecrets: []
 nameOverride: ""
